@@ -1,0 +1,7 @@
+telebot
+cryptography
+Fernet
+os
+shutil
+setup
+cythonize
