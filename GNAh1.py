@@ -6,8 +6,8 @@ import shutil
 from setuptools import setup
 from Cython.Build import cythonize
 
-API_TOKEN = 'YOUR_API_TOKEN' # Place your Telegram bot API token here
-ADMIN_ID = 123456789 # Place your Telegram user ID here
+API_TOKEN = '7168504662:AAH6qPxdnwg-msAJJ_2YjYI968czG8RzhhE' # Place your Telegram bot API token here
+ADMIN_ID = 5089141183 # Place your Telegram user ID here
 
 bot = telebot.TeleBot(API_TOKEN)
 
